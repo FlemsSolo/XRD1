@@ -1,8 +1,8 @@
 # Reflection over XRD1 kursus
 
-[Tilbage Til - AR](https://github.com/FlemsSolo/AR)
+[Tilbage Til - AR](https://github.com/FlemsSolo/AR/AR.md)
 
-[Tilbage Til - VR](https://github.com/FlemsSolo/VR)
+[Tilbage Til - VR](https://github.com/FlemsSolo/VR/VR.md)
 
 _Uge 1 (Introduktion)_
 
